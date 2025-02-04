@@ -1,5 +1,5 @@
 # Mood_tracker
-A website based app for tracking mood using python code
+A website based user interface for tracking mood or emotions using python code
 <br>
 It includes the following features:
 <br>
